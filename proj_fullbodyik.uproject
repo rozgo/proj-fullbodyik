@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.16",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "proj_fullbodyik",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
